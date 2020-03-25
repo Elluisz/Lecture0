@@ -1,0 +1,40 @@
+/*styling the main page*/
+div a:hover {
+	background-color: yellow;
+
+}
+div a {
+	text-decoration: none;
+	font-size: 20px;
+}
+img {
+	height: 200px;
+	width: 300px;
+	background-color: #3EABA1;
+}
+
+/*finishing the styling of the main page*/
+/*Starting the styling of the anime list*/
+
+#home-button {
+	margin: 25px;
+}
+
+/* Designing the Tables */
+#titles{
+	font-weight: bold;
+	font-size: 20px;
+
+}
+
+.container{
+	border: 1px solid black;
+	background-color: #C36284;
+}
+.row {
+	border: 1px solid black;
+	color: white;
+}
+.data {
+	border: 1px solid black;
+}
